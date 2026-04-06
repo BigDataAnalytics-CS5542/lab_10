@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     subgraph Phase_1_Detection ["Phase 1: Risk Signal Detection"]
         A[(data/raw/drugsComTrain.csv)] --> B[loader.py]
@@ -28,3 +29,4 @@ graph TD
         K --> O
         O --> P[Silhouette Score / Cross-Check]
     end
+```
