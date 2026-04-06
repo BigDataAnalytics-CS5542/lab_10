@@ -85,9 +85,10 @@ Requires Python 3.8+.
 git clone https://github.com/<your-username>/lab_10.git
 cd lab_10
 python -m venv .venv
-source .venv/bin/activate      # Windows: .venv\Scripts\activate
+source .venv/bin/activate      # Windows: .venv\Scripts\activat
 pip install -r requirements.txt
 ```
+### NOTE: Make sure to create a .env in the root with a HuggingFace token called HF_TOKEN
 
 ---
 
