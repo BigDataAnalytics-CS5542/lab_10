@@ -6,13 +6,13 @@ Raw data files are not tracked in this repository due to file size. To run the p
 
 ### Fatal Overdose Data (Primary)
 - **Source**: CDC SUDORS Dashboard
-- **Link**: https://www.cdc.gov/overdose-prevention/data-research/facts-stats/sudors-dashboard-fatal-overdose-data-accessible.html
+- **Link**: https://www.cdc.gov/overdose-prevention/data-dashboards/sudors-dashboard/data/SUDORS-Fatal-Overdose-Data.xlsx
 - **Format**: XLSX
 - **Save as**: `data/raw/fatal_overdose.xlsx`
 
 ### Non-Fatal Overdose Data (Primary)
 - **Source**: CDC DOSE Dashboard
-- **Link**: https://www.cdc.gov/overdose-prevention/data-research/facts-stats/dose-dashboard-nonfatal-discharge-data.html
+- **Link**: https://www.cdc.gov/overdose-prevention/data-dashboards/dose-discharge-dashboard/data/DOSE_dx_Dashboard_02092026.xlsx
 - **Format**: XLSX
 - **Save as**: `data/raw/nonfatal_overdose.xlsx`
 
